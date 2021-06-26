@@ -27,7 +27,7 @@ renice -n -18 -p $(pidof node)
 renice -n -18 -p $(pidof nodejs)
 
 echo ""
-echo "Done!"
+echo "Done! test"
 echo ""
 
 exit 0
